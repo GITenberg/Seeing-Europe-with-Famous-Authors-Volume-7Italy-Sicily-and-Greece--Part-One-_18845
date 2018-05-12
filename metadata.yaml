@@ -1,0 +1,33 @@
+_repo: Seeing-Europe-with-Famous-Authors-Volume-7Italy-Sicily-and-Greece--Part-One-_18845
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18845-h/images/imgcover.jpg
+creator:
+  editor:
+    agent_name: Halsey, Francis W. (Francis Whiting)
+    birthdate: 1851
+    deathdate: 1919
+    gutenberg_agent_id: '3081'
+    url: http://www.gutenberg.org/2009/agents/3081
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Whiting_Halsey
+description: ''
+gutenberg_bookshelf: Greece
+gutenberg_issued: '2006-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18845'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- Description and travel'
+- !lcsh 'Greece -- Description and travel'
+- !lcsh 'Sicily (Italy) -- Description and travel'
+- !lcc 'DF'
+title: 'Seeing Europe with Famous Authors, Volume 7
+
+  Italy, Sicily, and Greece (Part One)'
+url: http://www.gutenberg.org/ebooks/18845
